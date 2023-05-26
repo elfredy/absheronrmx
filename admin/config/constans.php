@@ -1,2 +1,2 @@
 <?php
-define('ROOT_URL', 'http://absheronrmx.local/');
+define('ROOT_URL', 'http://absheronrmx.az/');
